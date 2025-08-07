@@ -1,0 +1,22 @@
+{
+    "name": "kucil/components-utilities-integer",
+    "type": "library",
+    "description": "",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "MenyongMenying",
+            "email": "menyongmenying.main@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Kucil\\Components\\Utilities\\": "./src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "12.0.0"
+    },
+    "time": "2025-08-30"
+}
